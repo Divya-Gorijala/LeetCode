@@ -1,0 +1,8 @@
+
+a
+java:S1192	"FDefine a constant instead of duplicating this literal "Alice" 3 times.(ÉÈë•úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à“ÉÀøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¬è·
+V	java:S125"<This block of commented-out lines of code should be removed.(­ëŠûşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÊ›Í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇŞëş

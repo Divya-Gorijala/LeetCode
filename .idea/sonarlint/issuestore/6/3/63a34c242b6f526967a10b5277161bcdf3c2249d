@@ -1,0 +1,13 @@
+
+\
+java:S2259D"FA "NullPointerException" could be thrown; "previous" is nullable here.(•âô„
+]
+java:S22596"BA "NullPointerException" could be thrown; "head" is nullable here.(×»˜Æüÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(§Òğ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Âû¯Ğüÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(€“÷òøÿÿÿÿ
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(è–¦”øÿÿÿÿ8í•ïøÀ2
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Èª‘õÿÿÿÿÿ8•½…ùÀ2
+T	java:S106Q"9Replace this use of System.out or System.err by a logger.(®ñ8³÷ƒÁ2

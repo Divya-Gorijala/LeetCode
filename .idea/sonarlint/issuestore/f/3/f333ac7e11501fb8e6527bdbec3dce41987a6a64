@@ -1,0 +1,9 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(³ªÀþ8¯³Ä·Á2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”äÙóýÿÿÿÿ8û Å·Á2
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(³ªÀþ8Ô—Í·Á2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£¸‚í8Ž¥Æ·Á2
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8–·Ï·Á2
