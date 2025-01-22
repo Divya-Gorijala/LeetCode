@@ -6,7 +6,7 @@ import java.util.Map;
 public class MapExample1 {
     public static void main(String[] args) {
         Map<String,Integer> map= new HashMap<>();
-        map.put("Alice",31);
+        map.put("Alice",32);
         map.put("Bob",25);
         map.put("Charlie",35);
         System.out.println(map.get("Alice"));

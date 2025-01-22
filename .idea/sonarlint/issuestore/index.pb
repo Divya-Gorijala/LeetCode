@@ -71,7 +71,5 @@ k
 ;src/main/java/algorithms/sort_algorithms/InsertionSort.java,d/7/d77535196338e5dafcefe0896e26980cfee1d3a1
 a
 1src/main/java/algorithms/Recursion/Fibonacci.java,6/4/645bb49f3546766102eee33967f1200403b2d31f
-[
-+src/main/java/map_practise/MapExample1.java,b/e/be1d3cdc4ccc19755dd3785ddc53a273be69174b
 ^
 .src/main/java/streams_practise/FilterEven.java,2/e/2e0a7eb553e5faa62389b104e386a25d87e8c058
