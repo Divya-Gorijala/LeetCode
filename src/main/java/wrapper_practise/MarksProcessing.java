@@ -9,7 +9,7 @@ public class MarksProcessing {
         List<Integer> marks = new ArrayList<>();
 
         // Adding primitive int values (Autoboxing occurs here)
-        marks.add(86);  // int to Integer
+        marks.add(85);  // int to Integer
         marks.add(90);
         marks.add(78);
 
