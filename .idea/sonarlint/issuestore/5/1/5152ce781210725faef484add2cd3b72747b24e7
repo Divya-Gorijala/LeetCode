@@ -1,0 +1,7 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ˆàÕ§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õØ–Ïÿÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(¯éåûıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÊ“©üÿÿÿÿ

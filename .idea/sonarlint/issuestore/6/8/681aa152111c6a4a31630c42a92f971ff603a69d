@@ -1,0 +1,14 @@
+
+n
+java:S20955"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¨Ûøÿÿÿÿ8µ³áÈÍ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áµ»™8å³áÈÍ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’­Êß8î³áÈÍ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å¢Ï8ö³áÈÍ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€…º8ú³áÈÍ2
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÌÑÀÖÿÿÿÿÿ8û³áÈÍ2
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÉîØºûÿÿÿÿ8ü³áÈÍ2
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(é—¢ıüÿÿÿÿ8ı³áÈÍ2
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ˆÑ€µøÿÿÿÿ8ş³áÈÍ2
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(æ‚ËÑ8ÿ³áÈÍ2
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ùõá€8ÜÄ²ÑÍ2
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(İ¿â­şÿÿÿÿ8ÜÄ²ÑÍ2

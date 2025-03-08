@@ -1,0 +1,11 @@
+
+a
+java:S1192
+"FDefine a constant instead of duplicating this literal "Polly" 5 times.(¹”Þ±ýÿÿÿÿ
+a
+java:S1192
+"FDefine a constant instead of duplicating this literal "Sally" 3 times.(¹”Þ±ýÿÿÿÿ
+a
+java:S1192
+"FDefine a constant instead of duplicating this literal "Molly" 4 times.(¹”Þ±ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘òçÃÿÿÿÿÿ

@@ -1,0 +1,11 @@
+
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(±Á°
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ü¥êğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›Òîà
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(´µ­§ùÿÿÿÿ8äë”¡Í2
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8æë”¡Í2

@@ -1,0 +1,16 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Polly" 5 times.(¹”Þ±ýÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Sally" 3 times.(¹”Þ±ýÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Molly" 4 times.(¹”Þ±ýÿÿÿÿ
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(§»ã½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘òçÃÿÿÿÿÿ
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8…ÀÙðÌ2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‰Ë„ñÌ2
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ŠË„ñÌ2
